@@ -2,3 +2,7 @@ hi this is git folder file
 
 
 this is second commit 
+
+
+
+this is third commit 3
