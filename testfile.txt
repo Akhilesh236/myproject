@@ -11,3 +11,7 @@ this is third commit 3
 
 ==============================
 this is feature of git this is (feature1)
+
+==============================
+
+this is feature of git this is second (feature1)
