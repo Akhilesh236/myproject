@@ -1,7 +1,26 @@
 hi this is git folder file
 
 
+<<<<<<< HEAD
 hi some changes are modified
 
 
 git changes commit 3
+=======
+this is second commit 
+
+
+
+this is third commit 3
+
+
+
+==============================
+this is feature of git this is (feature1)
+
+this is feature of git this is second (feature1)
+
+================================
+
+new branch v1
+>>>>>>> feature1
